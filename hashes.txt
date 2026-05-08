@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Heyali
+
+This log tracks the cryptographic history and versioning for the song **Heyali** (heyali).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:53:36.496467 | `v1` | `448a197e35f0cccc5c8e6b72e28c41b5335104846d1e7db79ebfdf647c94408c` | `6961de4b8f64400222e518b345d3176a9d04c80a1e73f6ceaf1b1b5859eff207` | `2026-05-08_heyali-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
